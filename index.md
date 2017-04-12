@@ -1,4 +1,2 @@
 # My Games
-![You rascal.](http://i.imgur.com/ppfkm.png)
-
-[Link Clone](gamedevbuilds/link_clone/link_clone.html)
+1. [Link Clone](https://jahmezz.github.io/gamedevbuilds/link_clone/link_clone.html)
